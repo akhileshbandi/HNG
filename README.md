@@ -2,7 +2,9 @@
 
 The Home Network Guardian Tools Installer.
 
-Although not fully optimised like on the image this script should essentially seamlessly install all the prequiistes.
+Although not fully optimised like on the Final Image that can be dowloaded [here](https://nurisi-my.sharepoint.com/:f:/g/personal/b_nurisi_onmicrosoft_com/EhBmyiICp7BMt1WtO7_jvTwBI65f2S7nWnSgIp6aIMZKvA?e=ldenDv)
+
+this script should essentially seamlessly install all the prequiistes and let you configure everyhting yourself.
 
 ***
 
