@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC1090
+# Pi Hole and Pi-VPN Installer Scripts modified for easy installtion.
 
 # Pi-hole: A black hole for Internet advertisements
 # (c) Pi-hole (https://pi-hole.net)
