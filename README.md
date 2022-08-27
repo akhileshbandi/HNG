@@ -13,15 +13,15 @@ Find out the router Admin Page of your Home Router usually hosted at 192.168.0.1
 
 It looks something like this
 
-![image-1.png](.//hng-main-Screenshots/Screenshots/image-1.png)
+![image-1.png](.//Screenshots/image-1.png)
 
 Find which IP has your Router given to HNG Hostname by moving to the DHCP page of your router
 
-![image-2.png](.//hng-main-Screenshots/Screenshots/image-2.png)
+![image-2.png](.//Screenshots/image-2.png)
 
 Use your Router DHCP Settings to reserve the said IP for HNG to avoid conflicts.
 
-![image-4.png](.//hng-main-Screenshots/Screenshots/image-4.png)
+![image-4.png](.//Screenshots/image-4.png)
 
 If your Router Doesnt support DHCP Reservation HNG would work but the moment router DHCP expires additional configuration might be required.
 
@@ -39,21 +39,21 @@ Go back to your Router Page open DHCP Settings
 
 Change the DNS Server to the HNG IP do not give an alternate DNS Server
 
-![image-5.png](.//hng-main-Screenshots/Screenshots/image-5.png)
+![image-5.png](.//Screenshots/image-5.png)
 
 If your ISP(like SFR, Orange, Free) doesnt support DNS Change then turn off DHCP 
 
-![image-6.png](.//hng-main-Screenshots/Screenshots/image-6.png)
+![image-6.png](.//Screenshots/image-6.png)
 
 Now access your PiHole admin page by going to HNG IP/Pihole and Enable DHCP in Pihole and set the default gateway as your HNG IP
 
-![image-7.png](.//hng-main-Screenshots/Screenshots/image-7.png)
+![image-7.png](.//Screenshots/image-7.png)
 
 ## Port Forwarding
 
 Go to your router NAT Page and add the following PortForward to ensure VPN Connection.
 
-![image-8.png](.//hng-main-Screenshots/Screenshots/image-8.png)
+![image-8.png](.//Screenshots/image-8.png)
 
 
 ## Start Using
