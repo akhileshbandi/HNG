@@ -7,6 +7,11 @@ Although not fully optimised like on the Final Image that can be dowloaded [here
 this script should essentially seamlessly install all the prequiistes and let you configure everyhting yourself.
 
 ***
+## Architecture Diagram
+
+![image](https://user-images.githubusercontent.com/40914006/205175733-118af213-85d9-461f-8af7-72c8f429edb9.png)
+
+
 
 ## Initial Deployment Deployment
 Use an ethernet cable to connect the HNG to your Router
