@@ -9,7 +9,7 @@ this script should essentially seamlessly install all the prequiistes and let yo
 ***
 ## Architecture Diagram
 
-![image](https://user-images.githubusercontent.com/40914006/205175733-118af213-85d9-461f-8af7-72c8f429edb9.png)
+![image](.//Screenshots/image-10.png)
 
 
 
