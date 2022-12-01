@@ -9,7 +9,7 @@ this script should essentially seamlessly install all the prequiistes and let yo
 ***
 ## Architecture Diagram
 
-![image](.//Screenshots/image-10.png)
+![image-10.png](.//Screenshots/image-10.png)
 
 
 
